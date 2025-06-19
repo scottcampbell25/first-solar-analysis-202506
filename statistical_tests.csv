@@ -1,0 +1,6 @@
+Test,Statistic,P-Value,Significant
+Chi-Square Uniformity,7475.8860830861095,0.0,True
+T-Test Proximity,1.665724646082651,0.10552978593670305,False
+Correlation Distance-Share,0.03909281926523759,0.8262560312001231,False
+HHI Concentration,1289.7157132831421,,False
+Gini Coefficient,0.717196011856895,,True
